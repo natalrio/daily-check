@@ -1,1 +1,2 @@
-console.log('hello-world day 1')
+console.log('hello day 1');
+console.log('day 2');
