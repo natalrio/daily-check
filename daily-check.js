@@ -1,6 +1,7 @@
-console.log('hello day 1');
-console.log('day 2');
-console.log('day 3');
-console.log('day 4');
-console.log('day 5');
-console.log('day 6');
+console.log('hello day_1');
+console.log('day_2');
+console.log('day_3');
+console.log('day_4');
+console.log('day_5');
+console.log('day_6');
+console.log('day_7');
