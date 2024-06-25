@@ -1,4 +1,4 @@
-console.log('hello day_1');
+console.log('day_1');
 console.log('day_2');
 console.log('day_3');
 console.log('day_4');
@@ -10,3 +10,4 @@ console.log('day_9');
 console.log('day_10');
 console.log('day_11');
 console.log('day_12');
+console.log('day_13');
